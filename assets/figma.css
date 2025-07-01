@@ -1,0 +1,59 @@
+.issue
+{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-between;
+}
+img{
+    width: 30%;
+}
+h2{
+    text-transform: capitalize;
+    font-weight: 700;
+}
+.test{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.text{
+    color: #ff608c;
+}
+p{
+    font-weight: bold;
+}
+.keep-going{
+    background-color:#f5e3c6;
+}
+.keep-going h1{
+     text-transform: uppercase;
+     font-weight: 900;
+     
+}
+.sale{
+    background-color:  #ff608c;
+}
+.alphabeth{
+    background-color: #fff;
+}
+.designers{
+    background-color: rgb(80, 206, 164);
+
+}
+.ryan{
+    background-color: orangered;
+
+}
+.hartmut{
+    background-color: rgb(255, 166, 0);
+
+}
+.oliviero{
+    background-color: blue;
+
+}
+.michael{
+    background-color: red;
+
+}
