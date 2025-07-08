@@ -7,13 +7,14 @@
 }
 img{
     width: 30%;
+    padding-top: 50px ;
 }
 h2{
     text-transform: capitalize;
     font-weight: 700;
 }
 .test{
-    color: #fff;
+    color: #F6E0A4;
     text-transform: uppercase;
     font-weight: 700;
 }
@@ -35,25 +36,25 @@ p{
     background-color:  #ff608c;
 }
 .alphabeth{
-    background-color: #fff;
+    background-color: #ffff;
 }
 .designers{
-    background-color: rgb(80, 206, 164);
+    background-color:#00C1B5
 
 }
 .ryan{
-    background-color: orangered;
+    background-color: #FF6519;
 
 }
 .hartmut{
-    background-color: rgb(255, 166, 0);
+    background-color:#FFBE00;
 
 }
 .oliviero{
-    background-color: blue;
+    background-color: #1D3FBB;
 
 }
 .michael{
-    background-color: red;
+    background-color: #E30512;
 
 }
